@@ -1,0 +1,9 @@
+﻿################################################################################
+# Este arquivo .gitignore foi criado automaticamente pelo Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/PrimeiroProjeto/OlaMundo/.vs/OlaMundo
+/PrimeiroProjeto/OlaMundo/OlaMundo/bin/Debug/net8.0-windows
+/PrimeiroProjeto/OlaMundo/OlaMundo/obj
+/PrimeiroProjeto/OlaMundo/.vs/ProjectEvaluation
